@@ -1,0 +1,74 @@
+[
+  {
+    "key": "hero-balwyn-home",
+    "prompt": "Use case: photorealistic-natural. Asset: premium Australian garage door website hero, LANDSCAPE 16:9, desired 1920x1080. Create ONE remarkably believable architectural editorial photograph, real camera look, not a 3D render. An established leafy Balwyn Melbourne residential street, a beautifully kept warm light brick and off-white contemporary family home with a broad charcoal sectional double garage door, native garden and mature eucalyptus, textured concrete driveway, subtle imperfections. A natural-looking Australian tradesman age about 40 in navy work polo and beige work trousers walks naturally beside a white service van at the far right, face not posing, anatomically credible. Small neat copper and white physical lettering on the van: \"BALWYN GARAGE DOORS\". Right 65% contains garage, house and person; left 35% has darker foliage and shaded foreground suitable for website headline overlay. Whole garage fits frame. Soft clear late afternoon Melbourne daylight, true subdued colours, realistic tree shadows, 35mm architectural photography with corrected verticals. Brand palette navy #142D3A, muted copper #B96845, warm ivory. No advertising headline on image, no watermark, no collage, no cartoon, no glassy skin, no exaggerated saturation, no CGI surfaces, no American flags, no fake badges.",
+    "dimensions": [
+      1672,
+      941
+    ],
+    "web_file": "assets/images/hero-balwyn-home.webp"
+  },
+  {
+    "key": "service-repairs",
+    "prompt": "Use case: photorealistic-natural. ONE website service-card photograph, landscape 4:3 desired 1200x900, candid professional documentary camera style. Inside a real suburban Australian residential garage, believable male technician around 42 with natural skin texture, short dark hair, navy work polo and beige trousers, safely inspecting the side roller bracket of a closed charcoal sectional garage door. Side-on medium shot, person on left, clearly visible door panels, normal realistic mechanism on right, hands away from springs and moving parts, no dangerous repair steps, tool bag resting on floor. Small neatly embroidered copper lettering \"BALWYN GARAGE DOORS\" on his left chest. Soft light through open side entrance, lived-in understated space, honest textures, 50mm camera, sharp useful detail and natural perspective. Copper navy ivory brand palette. No stock photo grin, no posing at camera, no extra fingers, no impossible hardware, no glossy CGI, no plastic skin, no watermark, no graphic overlay, no other logos.",
+    "dimensions": [
+      1448,
+      1086
+    ],
+    "web_file": "assets/images/service-repairs.webp"
+  },
+  {
+    "key": "service-installation",
+    "prompt": "Use case: photorealistic-natural. ONE branded website service image, landscape 4:3 desired 1200x900. Real architectural documentary photograph of a newly fitted warm cedar-look sectional double garage door on a tidy white-rendered and brick Melbourne suburban home, established garden. A natural Australian tradesman in navy work polo and stone trousers stands at one side checking the door from outside, relaxed work posture, feet on ground, small white service van partly visible edge with discrete \"BALWYN GARAGE DOORS\" navy/copper lettering. The door closed, even realistic horizontal panel lines, careful correct architecture and verticals, driveway detail, restrained native planting, mid-morning soft sun. Camera 35mm, photographic texture and natural tonal range, not render. Balanced composition for a service card cropped responsively. No floating tools, no fake smile, no smooth airbrushed skin, no illustration, no giant text, no watermark.",
+    "dimensions": [
+      1448,
+      1086
+    ],
+    "web_file": "assets/images/service-installation.webp"
+  },
+  {
+    "key": "service-automation",
+    "prompt": "Use case: photorealistic-natural. ONE website service photograph, landscape 4:3 desired 1200x900. Candid detail-focused photo from inside a suburban Melbourne home garage. Technician in navy workwear seen half profile waist-up, natural authentic face and one hand holding a small unbranded black garage door remote at chest level; the closed charcoal sectional garage door and correctly mounted ceiling opener visible behind him in believable focus. Foreground includes tidy navy tool bag with a small stitched copper label reading \"BALWYN GARAGE DOORS\". Ordinary high-quality new equipment without manufacturer logos. Soft daylight from side window, realistic skin and fingers, calm credible Australian tradesperson, 50mm photography. Navy and muted copper palette. No ladder scene, no instruction diagram, no exposed electrical work, no impossible wiring, no fake grin, no CGI, no watermark or graphic text.",
+    "dimensions": [
+      1448,
+      1086
+    ],
+    "web_file": "assets/images/service-automation.webp"
+  },
+  {
+    "key": "team-at-home",
+    "prompt": "Use case: photorealistic-natural. ONE portrait website about-section image, PORTRAIT 4:5 desired 1200x1500. A candid documentary photograph outside a leafy Balwyn Melbourne brick family house with a charcoal sectional garage door. Two approachable Australian garage door technicians, one male aged 43 with slightly greying short hair and natural stubble, one female aged 32 with brown hair tied back, both in navy work polos with small tasteful embroidered copper and ivory text \"BALWYN GARAGE DOORS\", beige work trousers and proper boots. They are naturally discussing a job beside a white service van, three-quarter view, friendly relaxed expressions, looking at the door rather than at the camera. One holds a clipboard normally. Show natural skin pores and modest workwear creases, normal bodies and credible hands, lived-in subtle setting. Soft overcast Melbourne morning light, eye-level 50mm editorial photograph, premium approachable, no retouching feel. No awards, no certifications, no marketing captions, no watermark, no stock photo posing, no uncanny facial symmetry, no CGI.",
+    "dimensions": [
+      1122,
+      1402
+    ],
+    "web_file": "assets/images/team-at-home.webp"
+  },
+  {
+    "key": "door-charcoal",
+    "prompt": "Use case: photorealistic-natural. ONE architecture portfolio-inspiration photograph, landscape 3:2 desired 1500x1000. Straight-on slightly angled view of a sleek charcoal horizontally panelled sectional double garage door within a contemporary light sandstone and white-rendered Balwyn Melbourne family house. Eucalyptus foliage and restrained natural native garden, tactile pale concrete driveway, late morning overcast bright light. A navy tradesperson tool tote rests discreetly at the far edge of the driveway, small copper physical badge \"BALWYN GARAGE DOORS\". No people required. Compose cleanly with full garage door and generous surrounding house detail, realistic architecture, correct straight lines and panel joints, shadow detail and real camera microtexture, premium property-magazine 35mm photo not a 3D render. No vehicles blocking door, no promotional text, no watermark, no glossy artificial surfaces.",
+    "dimensions": [
+      1536,
+      1024
+    ],
+    "web_file": "assets/images/door-charcoal.webp"
+  },
+  {
+    "key": "door-timber",
+    "prompt": "Use case: photorealistic-natural. ONE Australian architecture inspiration image, landscape 3:2 desired 1500x1000. Beautiful warm timber-look sectional double garage door, authentic narrow horizontal slat finish and realistic panel divisions, a cream brick and light-render Melbourne residential home with mature established greenery and small ornamental tree, smooth but naturally marked driveway. Australian understated suburban luxury rather than mansion. Soft warm late-afternoon daylight, camera-correct verticals, 35mm professional real-estate editorial photo with tactile material variation. At the right edge a white service van is only partly seen, understated small dark navy and copper lettering \"BALWYN GARAGE DOORS\". Door is main focal point, unobstructed, no people needed, natural shadows. No AI render feel, no plastic wood grain, no orange oversaturation, no dramatic fake sky, no watermark, no advertising caption.",
+    "dimensions": [
+      1536,
+      1024
+    ],
+    "web_file": "assets/images/door-timber.webp"
+  },
+  {
+    "key": "door-classic",
+    "prompt": "Use case: photorealistic-natural. ONE website door style inspiration photo, landscape 3:2 desired 1500x1000. A timeless cream-white rectangular-panel sectional garage door on a well-maintained red-brick and cream-trim family home in leafy Balwyn Melbourne, modest pitched tile roof, established hydrangeas and clipped garden, real paving and mild wear. A natural Australian woman homeowner around 50 and a navy-uniformed male technician standing small at the edge of scene in quiet ordinary conversation, not posing, subtle authentic faces and hands. Technician's work polo has small copper and white embroidered \"BALWYN GARAGE DOORS\". Door occupies centre 65%, complete correct geometry, cream warm neutrals, soft daytime sky, 35mm real architectural photography, restrained contrast and natural skin, believable Australian setting. No pseudo testimonial, no advertising text, no watermark, no airbrush, no cartoon, no CGI.",
+    "dimensions": [
+      1536,
+      1024
+    ],
+    "web_file": "assets/images/door-classic.webp"
+  }
+]
